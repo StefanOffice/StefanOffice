@@ -33,4 +33,4 @@ that i have found my ***drive and passion*** and that ***coding is something i r
 Thanks for reading, feel free to browse and look through my projects as well. :wink:
 
 ### SKILLS
-JavaScript, <HTML>, CSS, Node.js, Express, MongoDB, Mongoose, Java, SQL(MySQL), Git, Maven, LibGDX, Bootstrap 
+JavaScript, HTML, CSS, Node.js, Express, MongoDB, Mongoose, Java, SQL(MySQL), Git, Maven, LibGDX, Bootstrap 
