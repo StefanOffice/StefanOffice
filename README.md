@@ -24,8 +24,9 @@ and structure of data, and ***logical problem solving*** that connects it all to
 The components could be assembled in countless ways(more than toothpicks ever could)
 and best of all i could create my own components and was not limited by 
 materials or tools, only by my own creativity, time and knowledge. 
-Then i discovered Design Patterns,the blueprints of solutions and building blocks of systems,
-huge communities of focused and sharp minds with common interest and openness to share and learn.
+Then i discovered Design Patterns,the blueprints of solutions and building blocks of systems.
+I've found huge coding communities of focused and sharp minds with common interest and openness to share and learn.
+
 I am trying to keep this description short, so i will not go into more detail, but
 the more i learned about programming the more i was drawn in. I realized
 that i have found my ***drive and passion*** and that ***coding is something i really enjoy doing***.
@@ -33,4 +34,4 @@ that i have found my ***drive and passion*** and that ***coding is something i r
 Thanks for reading, feel free to browse and look through my projects as well. :wink:
 
 ### SKILLS
-JavaScript, HTML, CSS, Node.js, Express, MongoDB, Mongoose, Java, SQL(MySQL), Git, Maven, LibGDX, Bootstrap 
+JavaScript, HTML, CSS, React, Node.js, Express, MongoDB, Mongoose, Java, SQL(MySQL), Git, Maven, LibGDX, Bootstrap 
